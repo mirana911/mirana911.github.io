@@ -1,0 +1,16 @@
+body {
+    background-color: pink;
+}
+#fkex {
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    background-color: ececec;
+}
+main {
+    background-color: violet;
+}
+h1 {
+    color: violet;
+}
